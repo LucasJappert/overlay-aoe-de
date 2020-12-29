@@ -21,7 +21,7 @@ https://lucasjappert.github.io/overlay-aoe-de/?idsteam=76561199094237242&showsco
 PD: The score may take a few minutes to update :)
 ```
 
-## Enjoit iT!
+## Enjoy iT!
 
 ```bash
 For any questions or suggests just write me!
