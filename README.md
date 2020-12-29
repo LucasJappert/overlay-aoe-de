@@ -17,6 +17,8 @@ https://lucasjappert.github.io/overlay-aoe-de/?idsteam=76561199094237242&showsco
 
 # To show only 1v1 add "&f=1" like this:
 https://lucasjappert.github.io/overlay-aoe-de/?idsteam=76561199094237242&showscore&resetscore
+
+PD: The score may take a few minutes to update :)
 ```
 
 ## Enjoit iT!
