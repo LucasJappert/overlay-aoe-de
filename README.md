@@ -1,6 +1,6 @@
 # Overlay AoE II - DE - Ratings, civilizations, Score 1v1, and more...
 
-![wallpaper](http://url/to/img.png)
+![wallpaper](https://raw.githubusercontent.com/LucasJappert/overlay-aoe-de/main/img/wallpaper.png)
 
 ## Uses
 
@@ -21,7 +21,7 @@ https://lucasjappert.github.io/overlay-aoe-de/?idsteam=76561199094237242&showsco
 PD: The score may take a few minutes to update :)
 ```
 
-## Enjoit iT!
+## Enjoy iT!
 
 ```bash
 For any questions or suggests just write me!
