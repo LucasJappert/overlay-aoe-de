@@ -6,8 +6,11 @@
 
 
 ```bash
+
 # Basic URL (you must use your Steam Id)
 https://lucasjappert.github.io/overlay-aoe-de/?idsteam=76561199094237242
+or
+https://lucasjappert.github.io/overlay-aoe-de/?profileid=945834
 
 # To show score add "&showscore" like this:
 https://lucasjappert.github.io/overlay-aoe-de/?idsteam=76561199094237242&showscore
