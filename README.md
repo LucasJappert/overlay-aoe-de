@@ -1,7 +1,7 @@
 # Overlay AoE II - DE - Ratings, civilizations, 1v1/TG Score, and more...
 
-![wallpaper](https://raw.githubusercontent.com/LucasJappert/overlay-aoe-de/main/img/wallpaper.png)
-![wallpaper](https://raw.githubusercontent.com/LucasJappert/overlay-aoe-de/main/img/wallpaper1.png)
+
+![wallpaper](https://raw.githubusercontent.com/LucasJappert/overlay-aoe-de/refs/heads/main/img/wallpaper.f096e904.png)
 
 ## Uses
 
